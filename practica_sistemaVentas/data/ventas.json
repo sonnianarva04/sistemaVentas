@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 3,
+    "fecha": "2026-10-12",
+    "total": 2000.0,
+    "detalles": [
+      {
+        "producto_id": 3,
+        "descripcion": "Impresora",
+        "cantidad": 4,
+        "precio_unitario": 500.0,
+        "subtotal": 2000.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 1,
+    "fecha": "2026-10-12",
+    "total": 2000.0,
+    "detalles": [
+      {
+        "producto_id": 1,
+        "descripcion": "Televisor",
+        "cantidad": 10,
+        "precio_unitario": 200.0,
+        "subtotal": 2000.0
+      }
+    ]
+  }
+]

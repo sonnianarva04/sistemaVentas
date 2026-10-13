@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jerick Mendez",
+    "apellido": "Ramirez",
+    "email": "jerick2026@gmail.com",
+    "telefono": "0974375643",
+    "ciudad": "Milagro"
+  },
+  {
+    "id": 2,
+    "nombre": "Karolay",
+    "apellido": "Mendez",
+    "email": "karol21@gmail.com",
+    "telefono": "0975478525",
+    "ciudad": "Milagro"
+  },
+  {
+    "id": 3,
+    "nombre": "Edwin",
+    "apellido": "Narvaez",
+    "email": "edwin98@gmail.com",
+    "telefono": "0978652396",
+    "ciudad": "Guayaquil"
+  }
+]

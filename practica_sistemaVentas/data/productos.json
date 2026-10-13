@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Televisor",
+    "precio": 200.0,
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "nombre": "Computadora",
+    "precio": 600.0,
+    "stock": 40
+  },
+  {
+    "id": 3,
+    "nombre": "Impresora",
+    "precio": 500.0,
+    "stock": 36
+  }
+]
